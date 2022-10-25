@@ -27,14 +27,14 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "Niluh-Mdོ" //namabot kalian
-global.ownername= "By ᭄ AlxNiluhjatim×፝֟͜×" //nama kalian
+global.ownername= "By ᭄ AL X Niluh×፝֟͜×" //nama kalian
 global.myweb ="https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg" //bebas asal jan hapus
 global.myweb2 = "https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg" //bebas
-global.email = "ngawuraja@gmail.com" //bebas
+global.email = "YouandMe@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['4915256954581'] //premium user
+global.premium = ['6285852939370'] //premium user
 global.owner = ["4915256954581","6281246711289"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "4915256954581" // nomor wa kalian
 global.ownernomerr = "6281246711289" //nmr wa kalian
